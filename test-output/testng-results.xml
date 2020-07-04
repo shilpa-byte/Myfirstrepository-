@@ -2,22 +2,22 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[I am Shilpa]]>
+      <![CDATA[ Shilpa]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="99" started-at="2020-06-30T10:21:03 IST" finished-at="2020-06-30T10:21:03 IST">
+  <suite name="Suite" duration-ms="60" started-at="2020-07-04T08:56:29 IST" finished-at="2020-07-04T08:56:29 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="99" started-at="2020-06-30T10:21:03 IST" finished-at="2020-06-30T10:21:03 IST">
+    <test name="Test" duration-ms="60" started-at="2020-07-04T08:56:29 IST" finished-at="2020-07-04T08:56:29 IST">
       <class name="com.actitime.login.demo">
-        <test-method status="PASS" signature="run()[pri:0, instance:com.actitime.login.demo@3cef309d]" name="run" duration-ms="19" started-at="2020-06-30T10:21:03 IST" finished-at="2020-06-30T10:21:03 IST">
+        <test-method status="PASS" signature="run()[pri:0, instance:com.actitime.login.demo@6e6c3152]" name="run" duration-ms="11" started-at="2020-07-04T08:56:29 IST" finished-at="2020-07-04T08:56:29 IST">
           <reporter-output>
             <line>
-              <![CDATA[I am Shilpa]]>
+              <![CDATA[ Shilpa]]>
             </line>
           </reporter-output>
         </test-method> <!-- run -->
       </class> <!-- com.actitime.login.demo -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
