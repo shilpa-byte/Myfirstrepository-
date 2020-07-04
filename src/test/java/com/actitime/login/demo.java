@@ -9,6 +9,6 @@ public class demo {
 @Test	
 public void run()
 {
-	Reporter.log("I am Shilpa",true);
+	Reporter.log(" Shilpa",true);
 }
 }
